@@ -1,0 +1,10 @@
+/Users/alexanderkapllanaj/webscraper_rust/simple_webscraper/target/debug/deps/libautocfg-a6bce098d9692bb8.rmeta: /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/alexanderkapllanaj/webscraper_rust/simple_webscraper/target/debug/deps/libautocfg-a6bce098d9692bb8.rlib: /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/alexanderkapllanaj/webscraper_rust/simple_webscraper/target/debug/deps/autocfg-a6bce098d9692bb8.d: /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs /Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs
+
+/Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/lib.rs:
+/Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/error.rs:
+/Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/rustc.rs:
+/Users/alexanderkapllanaj/.cargo/registry/src/index.crates.io-6f17d22bba15001f/autocfg-1.4.0/src/version.rs:
